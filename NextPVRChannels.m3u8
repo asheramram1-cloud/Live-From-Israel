@@ -31,10 +31,6 @@ https://tvsen6.aynaott.com/foxnews/index.m3u8
 # EPG: https://epg.pw/api/epg.xml?channel_id=464941
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
-#EXTINF:-1 tvg-chno="31" group-title="Sports" tvg-id="465311" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/NFLNetwork.png", NFL Network
-# EPG: https://epg.pw/api/epg.xml?channel_id=465311
-# https://tvpass.org/live/NFLNetwork/
-
 #EXTINF:-1 tvg-chno="32" group-title="Sports" tvg-id="465198" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ESPN.png", ESPN
 # EPG: https://epg.pw/api/epg.xml?channel_id=465198
 # https://tvpass.org/live/ESPN/sd
